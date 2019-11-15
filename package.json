@@ -1,0 +1,38 @@
+{
+  "_from": "depaula_eip",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/depaula_eip",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "depaula_eip",
+    "name": "depaula_eip",
+    "escapedName": "depaula_eip",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/",
+    "/depaula-contrib-ethip"
+  ],
+  "_resolved": "https://registry.npmjs.org/depaula_eip/-/depaula_eip-1.0.1.tgz",
+  "_shasum": "",
+  "_spec": "depaula_eip",
+  "_where": "/home/uondemand/.node-red",
+  "author": "DePaula <depaulaondemand@gmail.com>",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A Node-RED DePaula's prototype node to interact with some Weidmueller FBC-Coupler by Ethernet IP Protocol",
+  "keywords": [],
+  "license": "ISC",
+  "main": "depaula_eip.js",
+  "name": "depaula_eip",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}

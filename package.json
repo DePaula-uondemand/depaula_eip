@@ -19,7 +19,7 @@
     "/",
     "/depaula-contrib-ethip"
   ],
-  "_resolved": "https://registry.npmjs.org/depaula_eip/-/depaula_eip-1.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/depaula_eip/-/depaula_eip-1.0.4.tgz",
   "_shasum": "",
   "_spec": "depaula_eip",
   "_where": "/home/uondemand/.node-red",
@@ -34,5 +34,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.1"
+  "version": "1.0.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DePaula-uondemand/depaula_eip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DePaula-uondemand/depaula_eip/issues"
+  },
+  "homepage": "https://github.com/DePaula-uondemand/depaula_eip#readme"
 }
